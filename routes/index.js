@@ -3,7 +3,7 @@ var router = express.Router();
 
 //pg config
 var pg = require('pg');
-var conString = 'postgres://@localhost/pg_demo_db';
+var conString = 'postgres://sizexmkncyfcfs:e3e25c786d824b19ac474c55df8b395e1b0eefcae4308bce9723858f59fbda2d@ec2-50-17-236-15.compute-1.amazonaws.com:5432/d35q0vqp0qfm2g';
 
 //Users
 //get all users
